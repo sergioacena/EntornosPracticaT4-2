@@ -2,6 +2,8 @@ package paquete1;
 
 public class Personaje {
 
+	//EDIT - CAMBIO PARA GITHUB
+	
 	private int vida;
 	private int danio;
 	
